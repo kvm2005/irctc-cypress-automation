@@ -8,14 +8,14 @@ export function formatDate(inputDate) {
 }
 
 export const tatkalOpenTimings = {
-    "2A": "10:00",
-    "3A": "10:00",
-    "3E": "10:00",
-    "1A": "10:00",
-    "CC": "10:00",
-    "EC": "10:00",
-    "2S": "11:00",
-    "SL": "11:00",
+    "2A": "9:25",
+    "3A": "9:25",
+    "3E": "9:25",
+    "1A": "9:25",
+    "CC": "9:25",
+    "EC": "9:25",
+    "2S": "9:25",
+    "SL": "9:25",
 }
 
 export const hasTatkalAlreadyOpened = (TRAIN_COACH) => {
